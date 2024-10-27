@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,100m-98,0a98,98 0,1 1,196 0a98,98 0,1 1,-196 0" />
+    <!-- Add more path elements here to recreate the farm icons -->
+</vector>
